@@ -4,8 +4,7 @@
 - legible CV/Resume
 - responsive good looking design
 - JS is not used
-- This site was built using [GitHub Pages](https://woodensofa.github.io/).
 
-  > by MAYANK SHAH
+  > by MOHAMMAD SAAD QURAISHI
 
 ![FACEPrep](img/hdfh.png)
